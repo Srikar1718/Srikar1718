@@ -43,7 +43,7 @@ Designed a hybrid recommendation engine using collaborative filtering, content-b
 Internship project for image de-pixelation using super-resolution models. Validated output with **PSNR** and **SSIM** metrics.
 
 **Tech:** SRGAN, EDSR, Python, Deep Learning  
-📄 Certificate: [Intel Training Certificate](#)
+📄 Certificate: [Intel Training Certificate](https://drive.google.com/file/d/1uaL9NApNvAAJkSh1RDhPLOENXEBIpjlP/view?usp=sharing)
 
 ---
 
