@@ -60,7 +60,7 @@ Internship project for image de-pixelation using super-resolution models. Valida
 
 ## 📄 Resume
 
-📄 [Download Resume (Google Drive)](https://drive.google.com/your-resume-link)
+📄 [Download Resume (Google Drive)]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1WD8343t6F7OfHbsKVeEFh_urBVGuyWMr/view?usp=sharing))
 
 ---
 
