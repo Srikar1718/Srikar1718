@@ -27,7 +27,6 @@ A secure Java desktop app that stores user passwords and encrypted notes using `
 Built an LSTM-based time-series prediction model that forecasts stock prices using historical data.
 
 **Tech:** Python, Pandas, NumPy, LSTM, Keras  
-🔗 [GitHub Link](#)
 
 ---
 
@@ -60,7 +59,8 @@ Internship project for image de-pixelation using super-resolution models. Valida
 
 ## 📄 Resume
 
-📄 [Download Resume (Google Drive)]([[https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1WD8343t6F7OfHbsKVeEFh_urBVGuyWMr/view?usp=sharing)](https://drive.google.com/file/d/1WD8343t6F7OfHbsKVeEFh_urBVGuyWMr/view?usp=sharing))
+📄 [📥 Download Resume (Google Drive)](https://drive.google.com/file/d/1WD8343t6F7OfHbsKVeEFh_urBVGuyWMr/view?usp=sharing)
+
 
 ---
 
