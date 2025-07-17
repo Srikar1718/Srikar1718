@@ -19,7 +19,7 @@
 A secure Java desktop app that stores user passwords and encrypted notes using `PBEWithMD5AndDES` algorithm.
 
 **Tech:** Java, Java Swing, Encryption  
-🔗 [GitHub Link](#)
+🔗 [[GitHub Link](https://github.com/Srikar1718/Password-Manager-Java.git)](#)
 
 ---
 
