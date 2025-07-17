@@ -35,7 +35,7 @@ Built an LSTM-based time-series prediction model that forecasts stock prices usi
 Designed a hybrid recommendation engine using collaborative filtering, content-based filtering, and neural networks.
 
 **Tech:** Python, Scikit-learn, NLP, Deep Learning  
-🔗 [GitHub Link](#)
+🔗 [[GitHub Link](https://github.com/Srikar1718/Hybrid_recommendation_system.git)](#)
 
 ---
 
