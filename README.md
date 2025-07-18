@@ -27,7 +27,7 @@ A secure Java desktop app that stores user passwords and encrypted notes using `
 Built an LSTM-based time-series prediction model that forecasts stock prices using historical data.
 
 **Tech:** Python, Pandas, NumPy, LSTM, Keras  
-
+🔗 [[GitHub Link](https://github.com/Srikar1718/Password-Manager-Java.git)](#)
 ---
 
 ### 🎬 Hybrid Movie Recommendation System
